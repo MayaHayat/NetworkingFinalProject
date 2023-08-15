@@ -10,3 +10,6 @@ In addition to the technical findings, we also learned a few important lessons f
 Second, it is important to use real-world data in your experiments. The data we collected from WhatsApp was much more realistic than the synthetic data that is often used in research papers. We can confidently say that WhatsApp is one of the most commonly used app therefore we had to adjust our experiments according to that fact and sent messages that are a bit larger than usual in order to spot exactly when the message we meant to track was sent and when the attacker just received messages from other group they didn’t mean to track.  This made our results more credible and helped us to draw more accurate conclusions.
 
 Overall, we believe that this project was a success. We learnt a great amount about traffic analysis attacks and we were able to demonstrate that these attacks are a serious threat to the security of secure messaging apps. 
+
+## Use our code
+
