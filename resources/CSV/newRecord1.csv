@@ -1,0 +1,65 @@
+No.,Time,Source,Destination,Protocol,Length,Info
+2,0.737911,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+3,0.807164,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1 Ack=71 Win=1141 Len=0
+145,7.809421,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+146,7.877545,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1 Ack=141 Win=1141 Len=0
+207,9.292341,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,1059,Application Data
+208,9.361159,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1 Ack=1126 Win=1152 Len=0
+209,9.463018,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,185,Application Data
+210,9.516298,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=1126 Ack=112 Win=514 Len=0
+212,11.046223,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+213,11.114447,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=112 Ack=1196 Win=1152 Len=0
+214,11.123377,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,168,Application Data
+215,11.1263,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,167,Application Data
+216,11.237726,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=206 Ack=1289 Win=1152 Len=0
+221,14.380524,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,499,Application Data
+222,14.44844,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=206 Ack=1714 Win=1163 Len=0
+225,14.551144,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,185,Application Data
+226,14.599955,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=1714 Ack=317 Win=513 Len=0
+241,15.654545,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,168,Application Data
+242,15.657258,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,167,Application Data
+243,15.726272,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=411 Ack=1807 Win=1163 Len=0
+252,17.129797,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+253,17.198215,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=411 Ack=1877 Win=1163 Len=0
+271,21.728191,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,75,55177  >  443 [ACK] Seq=1 Ack=1 Win=511 Len=1 [TCP segment of a reassembled PDU]
+272,21.811918,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  55177 [ACK] Seq=1 Ack=2 Win=278 Len=0
+278,24.551597,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+279,24.619524,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=411 Ack=1947 Win=1163 Len=0
+280,24.633957,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,963,Application Data
+281,24.702932,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=411 Ack=2836 Win=1174 Len=0
+283,24.804482,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,185,Application Data
+284,24.852695,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=2836 Ack=522 Win=512 Len=0
+285,25.737877,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,168,Application Data
+286,25.74141,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,167,Application Data
+287,25.810654,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=616 Ack=2929 Win=1174 Len=0
+288,25.984063,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+289,26.053002,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=616 Ack=2999 Win=1174 Len=0
+296,29.212064,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,288,Application Data
+297,29.281028,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=616 Ack=3213 Win=1185 Len=0
+298,29.380565,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,185,Application Data
+299,29.426528,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=3213 Ack=727 Win=511 Len=0
+301,30.202078,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,168,Application Data
+302,30.205647,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,167,Application Data
+303,30.274092,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=821 Ack=3306 Win=1185 Len=0
+307,30.573367,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,144,Application Data
+308,30.642281,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=821 Ack=3376 Win=1185 Len=0
+313,31.807951,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,154,Application Data
+314,31.856355,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=3376 Ack=901 Win=516 Len=0
+315,32.853836,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,262,Application Data
+318,32.875503,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,146,Application Data
+319,32.943855,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1089 Ack=3448 Win=1185 Len=0
+334,39.664659,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,1466,52750  >  443 [ACK] Seq=3448 Ack=1089 Win=515 Len=1392 [TCP segment of a reassembled PDU]
+335,39.664659,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,339,Application Data
+336,39.734297,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1089 Ack=5105 Win=1198 Len=0
+337,39.845386,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,185,Application Data
+338,39.886118,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=5105 Ack=1200 Win=515 Len=0
+340,40.677437,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,168,Application Data
+341,40.679788,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TLSv1.2,167,Application Data
+342,40.748994,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  52750 [ACK] Seq=1294 Ack=5198 Win=1198 Len=0
+371,41.701135,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,113,Application Data
+372,41.701135,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,"443  >  55177 [FIN, ACK] Seq=40 Ack=2 Win=278 Len=0"
+373,41.701212,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,55177  >  443 [ACK] Seq=2 Ack=41 Win=511 Len=0
+374,41.701464,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,"55177  >  443 [FIN, ACK] Seq=2 Ack=41 Win=511 Len=0"
+375,41.776622,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TCP,74,443  >  55177 [ACK] Seq=41 Ack=3 Win=278 Len=0
+376,42.272604,2a03:2880:f276:cd:face:b00c:0:167,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,TLSv1.2,154,Application Data
+377,42.326907,2a0d:6fc2:5560:c200:bdce:1f2e:bc44:2269,2a03:2880:f276:cd:face:b00c:0:167,TCP,74,52750  >  443 [ACK] Seq=5198 Ack=1374 Win=514 Len=0
