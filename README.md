@@ -13,7 +13,7 @@ Overall, we believe that this project was a success. We learnt a great amount ab
 
 ## Use our code
 
-In order to use the code, clone the repository, or download it to your own computer. open the ipynb file using jupyter notebook. Paste the csv saved recordings into the file's directory, and run the code.
+In order to use the code, clone the repository, or download it to your own computer. open the ipynb file using jupyter notebook. Paste the csv saved recordings into the file's directory, change the path inside the code to your updated csv file names, and run the code.
 
 ## Navigate through our project
 src directory: graphing code
